@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "gre_words",
+  "description": "GRE WORDS",
+  "version": "1.0",
+
+  "background": {
+    "scripts": ["js/gre_dict.js", "js/eventPage.js"]
+  },
+
+  "permissions": [
+    "notifications"
+  ]
+}

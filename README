@@ -1,0 +1,4 @@
+- This project is used to learn important gre words while surfing the internet
+- This feature is powered by Chrome extension Rich Notifications API.
+- the random words will be selected. Then, the words with the respective meaning will be notified through Chrome extension Rich Notification API.
+- you can set the interval in gre_words/js/eventPage.js
